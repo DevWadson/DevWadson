@@ -3,7 +3,7 @@
 - 👨‍💻 Marlon Wadson
 - 🎓 Estudante de Ciência da Computação
 - 🧠 Foco em automação, organização de dados e interfaces intuitivas
-- 📍 Projetos desenvolvidos com Python, C, Java, HTML, CSS e JavaScript
+- 📍 Projetos desenvolvidos com Python, C, Java e JavaScript
 - 📁 Organização por pastas temáticas e estruturadas por linguagem
 
   
